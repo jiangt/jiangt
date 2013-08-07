@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.200.v201103170332,"org.eclipse.wst.common.project.facet.core",1373717486134
+started,bundle,org.eclipse.wst.server.core,1.1.303.v20110816_1717,"org.eclipse.wst.server.core",1373717486134
+started,bundle,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui",1373717486134
+started,bundle,org.eclipse.wst.validation,1.2.302.v201107140600,"org.eclipse.wst.validation",1373717486134
+started,bundle,org.eclipse.wst.web,1.1.500.v201104251400,"org.eclipse.wst.web",1373717486134
+started,bundle,org.eclipse.wst.xml.core,1.1.601.v201108302147,"org.eclipse.wst.xml.core",1373717486150
+os,sysinfo,,,"win32",1373717486150
+arch,sysinfo,,,"x86",1373717486150
+ws,sysinfo,,,"win32",1373717486150
+locale,sysinfo,,,"zh_CN",1373717486150
+processors,sysinfo,,,"2",1373717486150
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1373717486150
+java.runtime.version,sysinfo,,,"1.7.0-b147",1373717486150
+java.specification.name,sysinfo,,,"Java Platform API Specification",1373717486150
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1373717486150
+java.specification.version,sysinfo,,,"1.7",1373717486150
+java.vendor,sysinfo,,,"Oracle Corporation",1373717486150
+java.version,sysinfo,,,"1.7.0",1373717486150
+java.vm.info,sysinfo,,,"mixed mode",1373717486150
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1373717486150
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1373717486150
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1373717486150
+java.vm.specification.version,sysinfo,,,"1.7",1373717486150
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1373717486150
+java.vm.version,sysinfo,,,"21.0-b17",1373717486150
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373717497775
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717497884
+started,bundle,org.eclipse.debug.ui,3.7.101.v20110817_r371,"org.eclipse.debug.ui",1373717497931
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373717497947
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717498290
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1373717498384
+started,bundle,org.eclipse.core.variables,3.2.500.v20110511,"org.eclipse.core.variables",1373717498415
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717498431
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717508118
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373717529212
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373717531025
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717531165
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717532306
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373717532384
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717532384
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717532462
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717532525
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717533822
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373717535915
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.100.v201101252155,"org.eclipse.jst.ws.jaxws.dom.integration",1373717536150
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1373717536181
+started,bundle,org.eclipse.jst.servlet.ui,1.1.501.v201108220630,"org.eclipse.jst.servlet.ui",1373717536275
+error,log,,,"Core exception while retrieving the content description",1373717537837
+error,log,,,"Core exception while retrieving the content description",1373717537837
+error,log,,,"Core exception while retrieving the content description",1373717537837
+error,log,,,"Core exception while retrieving the content description",1373717537853
+error,log,,,"Core exception while retrieving the content description",1373717537853
+error,log,,,"Core exception while retrieving the content description",1373717537853
+started,bundle,org.eclipse.jst.jee,1.0.401.v201105122000,"org.eclipse.jst.jee",1373717538478
+started,bundle,org.eclipse.jpt.common.core,1.0.1.v201108080010,"org.eclipse.jpt.common.core",1373717538665
+started,bundle,org.eclipse.jpt.jpa.core,3.0.1.v201109073010,"org.eclipse.jpt.jpa.core",1373717538697
+started,bundle,org.eclipse.wst.sse.core,1.1.601.v201108151912,"org.eclipse.wst.sse.core",1373717538790
+started,bundle,org.eclipse.jst.jsp.core,1.2.401.v201108302147,"org.eclipse.jst.jsp.core",1373717544322
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373717544572
+started,bundle,org.eclipse.wst.css.core,1.1.500.v201104191926,"org.eclipse.wst.css.core",1373717544978
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373717555134
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717555228
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717556072
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373717556150
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717556150
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717556259
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717556306
+error,log,,,"Core exception while retrieving the content description",1373717556728
+error,log,,,"Core exception while retrieving the content description",1373717556728
+error,log,,,"Core exception while retrieving the content description",1373717556728
+error,log,,,"Core exception while retrieving the content description",1373717556728
+error,log,,,"Core exception while retrieving the content description",1373717556743
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717557290
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373717564509
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717576665
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717576665
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717576743
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717577853
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717579697
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717590697
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373717594290
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717601025
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717601040
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717601134
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717692197
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373717698743
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r371_v20110824-0800,"org.eclipse.ltk.core.refactoring",1373717699931
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring",1373717699947
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373717711290
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373717718478
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717718587
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717719837
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373717719884
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717719900
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717720134
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717720181
+error,log,,,"Core exception while retrieving the content description",1373717720540
+error,log,,,"Core exception while retrieving the content description",1373717720540
+error,log,,,"Core exception while retrieving the content description",1373717720540
+error,log,,,"Core exception while retrieving the content description",1373717720540
+error,log,,,"Core exception while retrieving the content description",1373717720556
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717736650
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717736775
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717747868
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717763665
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717763775
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717766618
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717787806
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373717792337
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717792337
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717792603
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717792665
+error,log,,,"Core exception while retrieving the content description",1373717793165
+error,log,,,"Core exception while retrieving the content description",1373717793165
+error,log,,,"Core exception while retrieving the content description",1373717793165
+error,log,,,"Core exception while retrieving the content description",1373717793165
+error,log,,,"Core exception while retrieving the content description",1373717793165
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717793915
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373717825993
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717826790
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717927712
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373717928572
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373717930603
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717930634
+error,log,,,"Could not load the Tomcat server configuration at \\Servers\\Tomcat v6.0 Server at localhost-config. The configuration may be corrupt or incomplete.",1373717930634
+error,log,,,"Core exception while retrieving the content description",1373717930947
+error,log,,,"Core exception while retrieving the content description",1373717930947
+error,log,,,"Core exception while retrieving the content description",1373717930947
+error,log,,,"Core exception while retrieving the content description",1373717930947
+error,log,,,"Core exception while retrieving the content description",1373717930947
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717931056
+error,log,,,"Core exception while retrieving the content description",1373717931134
+error,log,,,"Core exception while retrieving the content description",1373717931134
+error,log,,,"Core exception while retrieving the content description",1373717931134
+error,log,,,"Core exception while retrieving the content description",1373717931134
+error,log,,,"Core exception while retrieving the content description",1373717931134
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717950493
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373717954915
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1373717959353
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1373717968790
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717975509
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717978353
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373717983322
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1373717986618
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1373717986634
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1373717986728
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1373717986728
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1373717987103
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1373717987118
+started,bundle,org.eclipse.jdt.junit.core,3.7.0.v20110518-0800,"org.eclipse.jdt.junit.core",1373717989103
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373717994618
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373718952431
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373718953228
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373718955040
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373718958400
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373718960040
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373718968884
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373719018478
+error,log,,,"Core exception while retrieving the content description",1373719026556
+error,log,,,"Core exception while retrieving the content description",1373719026556
+error,log,,,"Core exception while retrieving the content description",1373719026556
+error,log,,,"Core exception while retrieving the content description",1373719026837
+error,log,,,"Core exception while retrieving the content description",1373719026837
+error,log,,,"Core exception while retrieving the content description",1373719026837
+error,log,,,"Core exception while retrieving the content description",1373719026853
+started,bundle,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui",1373719026931
+started,bundle,org.eclipse.wst.sse.ui,1.3.1.v201108191312,"org.eclipse.wst.sse.ui",1373719026993
+started,bundle,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui",1373719027728
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1373719028650
+started,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1373719029915
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1373719030150
+opened,editor,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1373719030243
+activated,editor,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1373719030415
+error,log,,,"Core exception while retrieving the content description",1373719030447
+error,log,,,"Core exception while retrieving the content description",1373719030462
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1373719031743
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1373719031759
+started,bundle,org.eclipse.jem.workbench,2.0.400.v201104251400,"org.eclipse.jem.workbench",1373719031822
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1373719032478
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1373719032525
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1373719032931
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719051040
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719331025
+started,bundle,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets",1373719336618
+started,bundle,org.eclipse.gef,3.7.1.v20110830-1143,"org.eclipse.gef",1373719336822
+started,bundle,org.eclipse.draw2d,3.7.1.v20110830-1143,"org.eclipse.draw2d",1373719336978
+opened,view,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1373719338822
+activated,view,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets.internal.ui.SnippetsView",1373719339009
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719339040
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373719339134
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719418947
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719425572
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719427165
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1373719427181
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719439243
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719443947
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1373719443978
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719457665
+closed,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373719471837
+closed,editor,org.eclipse.wst.xml.ui,1.1.201.v201108151912,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1373719472181
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1373719476462
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1373719476462
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719476493
+opened,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373719482306
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373719482572
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719501243
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719505915
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719506931
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719509072
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719511790
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.run",1373719511868
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1373719514634
+opened,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1373719520697
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1373719520728
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719526290
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373719537087
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719543587
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373719546290
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719561290
+executed,command,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.stop",1373719561447
+activated,view,org.eclipse.ui.console,3.5.100.v20110511,"org.eclipse.ui.console.ConsoleView",1373719562212
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719563509
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373719564040
+activated,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373719572556
+no handler,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1373719581306
+no handler,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1373719582134
+no handler,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1373719582415
+no handler,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1373719582681
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719586759
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719586759
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719586884
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719652259
+activated,view,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.ServersView",1373719655243
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719661290
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719662322
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1373719662368
+closed,editor,org.eclipse.wst.server.ui,1.1.306.v20110823_1704,"org.eclipse.wst.server.ui.editor",1373719662447
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719667243
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719667259
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719667322
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719678743
+started,bundle,org.eclipse.wst.xsl.debug.ui,1.0.200.v201101281837,"org.eclipse.wst.xsl.debug.ui",1373719679978
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719686072
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1373719708322
+error,log,,,"Cannot find navigator content extension (using triggerPoints) for object ""<null>"" parent path: ""P/Servers"".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.",1373719708337
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719708368
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1373719710462
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719714525
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719714540
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1373719714618

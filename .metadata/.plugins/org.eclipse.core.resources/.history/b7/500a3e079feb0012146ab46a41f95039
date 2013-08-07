@@ -1,0 +1,178 @@
+/**
+ * Copyright (c) 2002 sinosoft  Co. Ltd.
+ * All right reserved.
+ */
+package com.sinosoft.utility;
+
+/**
+ * <p>
+ * ClassName: JdbcUrl
+ * </p>
+ * <p>
+ * Description: 构建 Jdbc 的 url
+ * </p>
+ * <p>
+ * Copyright: Copyright (c) 2002
+ * </p>
+ * <p>
+ * Company: sinosoft
+ * </p>
+ * @author: HST
+ * @version: 1.0
+ * @date: 2002-05-31
+ */
+public class JdbcUrl
+{
+	// @Field
+	private String DBType;
+
+	private String IP;
+
+	private String Port;
+
+	private String DBName;
+
+	private String ServerName;
+
+	private String UserName;
+
+	private String PassWord;
+
+	// @Constructor
+	public JdbcUrl()
+	{
+		// WebLogic连接池，其中MyPool为连接池的名称
+		// DBType = "WEBLOGICPOOL";
+		// DBName = "MyPool";
+
+		// apache连接池
+		// DBType="COMMONSDBCP";
+		// DBName="DB2";
+
+//		DBType = "ORACLE";
+//		IP = "10.1.71.75";
+//		Port = "1521";
+//		DBName = "orcl";
+//		UserName = "lis";
+//		PassWord = "lis";
+		
+		
+		DBType = "ORACLE";
+		//IP = "10.1.90.27";
+		IP="127.0.0.1";
+		Port = "1521";
+		DBName = "orcl";
+		//UserName = "lis";
+		//PassWord = "lis";
+		UserName = "jiangting";
+		PassWord = "jiangting";
+
+	}
+
+	// @Method
+	public String getDBType()
+	{
+		return DBType;
+	}
+
+	public String getIP()
+	{
+		return IP;
+	}
+
+	public String getPort()
+	{
+		return Port;
+	}
+
+	public String getDBName()
+	{
+		return DBName;
+	}
+
+	public String getServerName()
+	{
+		return ServerName;
+	}
+
+	public String getUserName()
+	{
+		return UserName;
+	}
+
+	public String getPassWord()
+	{
+		return PassWord;
+	}
+
+	public void setDBType(String aDBType)
+	{
+		DBType = aDBType;
+	}
+
+	public void setIP(String aIP)
+	{
+		IP = aIP;
+	}
+
+	public void setPort(String aPort)
+	{
+		Port = aPort;
+	}
+
+	public void setDBName(String aDBName)
+	{
+		DBName = aDBName;
+	}
+
+	public void setServerName(String aServerName)
+	{
+		ServerName = aServerName;
+	}
+
+	public void setUser(String aUserName)
+	{
+		UserName = aUserName;
+	}
+
+	public void setPassWord(String aPassWord)
+	{
+		PassWord = aPassWord;
+	}
+
+	/**
+	 * 获取连接句柄
+	 * @return String
+	 */
+	public String getJdbcUrl()
+	{
+		String sUrl = "";
+
+		if (DBType.trim().toUpperCase().equals("ORACLE"))
+		{
+			sUrl = "jdbc:oracle:thin:@" + IP + ":" + Port + ":" + DBName;
+		}
+
+		if (DBType.trim().toUpperCase().equals("INFORMIX"))
+		{
+			sUrl = "jdbc:informix-sqli://" + IP + ":" + Port + "/" + DBName + ":" + "informixserver=" + ServerName
+					+ ";" + "user=" + UserName + ";" + "password=" + PassWord + ";";
+		}
+
+		if (DBType.trim().toUpperCase().equals("SQLSERVER"))
+		{
+			sUrl = "jdbc:inetdae:" + IP + ":" + Port + "?sql7=true&" + "database=" + DBName + "&" + "charset=gbk";
+		}
+		if (DBType.trim().toUpperCase().equals("WEBLOGICPOOL"))
+		{
+			sUrl = "jdbc:weblogic:pool:" + DBName;
+		}
+
+		if (DBType.trim().toUpperCase().equals("DB2"))
+		{
+			sUrl = "jdbc:db2://" + IP + ":" + Port + "/" + DBName;
+		}
+		return sUrl;
+	}
+
+}
